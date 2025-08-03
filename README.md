@@ -1,6 +1,3 @@
-# annotareum_docs
-Annotareum project docs
-
 # Annotareum Whitepaper
 
 **Version 1.0**  
